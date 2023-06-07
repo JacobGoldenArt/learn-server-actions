@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "words": "Hi I'm Jacob",
+      "human": true
+    },
+    {
+      "id": 2,
+      "words": "I like pizza",
+      "human": false
+    },
+    {
+      "id": 3,
+      "words": "Biscuits are good",
+      "human": true
+    },
+    {
+      "id": 4,
+      "words": "I know math",
+      "human": false
+    }
+  ]
+}
